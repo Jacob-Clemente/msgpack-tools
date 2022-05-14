@@ -1,0 +1,5 @@
+project: msgpack-tools
+target: json2msgpack
+
+cmds:
+  - cmd: /json2msgpack -i @@ -o out
